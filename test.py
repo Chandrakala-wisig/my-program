@@ -1,5 +1,5 @@
 print( "hello")
 print("world")
 print("bye")
-print("hi"i)
+print("hi")
 print("abcd")
